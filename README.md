@@ -132,18 +132,4 @@ OOPS-Banner-App/
 - Real-world use of Collections  
 - Interview-ready Java project  
 
----
-
-## 🧪 How to Run
-
-```bash
-git clone <repository-url>
-
-👤 Author
-
-Balaji Sapkal
-Java | OOPS | Backend Development
-
-
-## 📂 Project Structure
 

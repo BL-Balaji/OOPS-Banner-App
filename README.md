@@ -97,20 +97,7 @@ OOPS-Banner-App/
 - Uses `HashMap<Character, String[]>`  
 - Enables O(1) lookup  
 - Uses `StringBuilder` and nested loops  
-- Fully scalable banner engine  
-
----
-
-## 🖥️ Sample Output
-
- *****    *****   ******    *****  
- *     *  *     *  *     *  *        
- *     *  *     *  *     *  *        
- *     *  *     *  ******    *****  
- *     *  *     *  *               * 
- *     *  *     *  *               * 
-  *****    *****   *          *****  
-
+- Fully scalable banner engine 
   
 ---
 
